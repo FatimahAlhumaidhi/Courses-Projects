@@ -1,0 +1,6 @@
+process ID     Process Priority    CPU burst      Arrival time   Start time          Termination time    Turn around time              Waiting time        Response time       
+P0             1                   6              0              0                   6                   6                             0                   0                   
+P1             2                   3              5              10                  13                  8                             5                   5                   
+P2             2                   4              3              6                   10                  7                             3                   3                   
+
+Scheduling order chart: [P0|P0|P0|P0|P0|P0|P2|P2|P2|P2|P1|P1|P1]

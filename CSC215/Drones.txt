@@ -1,0 +1,15 @@
+id		pilot		class				location	rotor			rate		fees
+111		Ali 		Delivery      			RUH50N 		tricopters		4.5		20.00
+222		Hamad 		Agriculture  			DMM23W 		quadcopters		5.0		50.00
+777		Maha 		Photo&Video			RUH55S		quadcopters		5.0		10.00
+444		khalid 		GPS				AHB12E		hexacopters 		5.0		50.00
+555		Saad 		Delivery			JED22S		tricopters		3.4		10.00
+666		Ahmed 		Agriculture			ELQ44N		octocopters 		4.9		20.00
+333		Sami		Photo				TIF19S		hexacopters		3.0		15.00
+-------------------------------------------------------------------------------------------------------------------------------
+the navigation Drones
+id              pilot           class                           location        rate            mode
+111             Ali             Delivery                        RUH50N          4.5             B
+222             Hamad           Agriculture                     DMM23W          5.0             B
+444             khalid          GPS                             AHB12E          5.0             B
+666             Ahmed           Agriculture                     ELQ44N          4.9             B
