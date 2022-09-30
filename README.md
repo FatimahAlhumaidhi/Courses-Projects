@@ -1,5 +1,5 @@
 # Courses-Projects
-Different Project done for my bachelor's degree in computer science
+Different Projects done for my bachelor's degree in computer science
 
 * the courses are: 
   
