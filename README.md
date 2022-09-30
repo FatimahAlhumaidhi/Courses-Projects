@@ -1,6 +1,6 @@
 # Courses-Projects
 Different Project done for my bachelor's degree in computer science
-
+<p>
 the courses are:
   CSC212 - Data Structures
   CSC215 - Procedural Programming in C
@@ -9,3 +9,4 @@ the courses are:
   CSC311 - The Design And Analysis Of Algorithms
   CSC361 - Artificial Intelegence
   CSC380 - Database Systems
+</p>
