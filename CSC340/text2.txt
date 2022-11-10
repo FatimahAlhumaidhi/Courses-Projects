@@ -1,0 +1,13 @@
+START
+int X;
+int Fact;
+read X; @ input an integer @ 
+if X>0 then 
+Fact := 1;
+repeat 
+Fact := Fac * X;
+X := X - 1;
+until X == 0; 
+write (Fact); @ output factorial of x @
+end;
+END

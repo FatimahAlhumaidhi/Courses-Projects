@@ -1,0 +1,11 @@
+START
+int X;
+double Y;
+X:=Y>0.0;
+read X ; @ input an integer @ 
+repeat 
+write(X);
+X := X - 1;
+until X; 
+4+;
+END

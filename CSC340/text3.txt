@@ -1,0 +1,9 @@
+START
+int X;
+double Y;
+Y:=2.3;
+read X; @ input an integer @ 
+if X>Y then 
+  write (Result); 
+end;
+END
