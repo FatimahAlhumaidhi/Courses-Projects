@@ -1,0 +1,129 @@
+[ {
+		"name" : "Control: Ultimate Edition",
+		"price" : 39.99,
+		"description" : "A corruptive presence has invaded the Federal Bureau of Control…Only you have the power to stop it. The world is now your weapon in an epic fight to annihilate an ominous enemy through deep and unpredictable environments. Containment has failed, humanity is at stake. Will you regain control?",
+		"quantity" : 0,
+		"src_photo": "images/Control-Ultimate-Edition.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/img/rnd/202009/1409/LOjeGQPXg7C1yoMmhsKYOwfa.png?w=440&thumb=false"	
+	}, 
+	{
+		"name" : "Mortal Kombat 11",
+		"price" : 49.99,
+		"description" : "The all new Custom Character Variations give you unprecedented control of your fighters to make them your own. The new graphics engine showcases every skull-shattering, eye-popping moment, bringing you so close to the fight you can feel it. Featuring a roster of new and returning Klassic Fighters, Mortal Kombats best-in-class cinematic story mode continues the epic saga over 25 years in the making.",
+		"quantity" : 0,
+		"src_photo": "images/Mortal-Kombat-11.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png?w=440&thumb=false"	
+	}, 
+	{
+		"name" : "Shadow Warrior 3",
+		"price" : 39.99,
+		"description" : "Fallen corporate shogun Lo Wang and his former employer turned nemesis turned sidekick Orochi Zilla embark on an improbable mission to recapture an ancient dragon they unwillingly unleashed from its eternal prison. Armed with a punishing mix of blades and bullets, Lo Wang must traverse uncharted parts of the world to track down the dark beast and push the apocalypse back yet again. All it will take is the mask of a dead god, a dragons egg, a touch of magic, and enough firepower to hold off the impending cataclysm.",
+		"quantity" : 0,
+		"src_photo": "images/Shadow-Warrior-3.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202107/2401/WdFb9QYf8U3oj8NHMsMfWxe5.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Dragon Star Varnir",
+		"price" : 39.99,
+		"description" : "Awaken Your Inner Dragon – When attacking an enemy during battle, players fill up their Dragon Gauge. Once maxed, they can transform and harness the power of dragons, drastically increasing their armor and unlocking abilities! Devour Hour – Once an enemy dragon is weakened, players can utilize the Devour skill to obtain a skill tree unique to that dragon. Players can explore different dragon skill trees and combinations! Madness or Riches? – Three witches depend on you to bring them dragons blood as food. Starve them, and they go mad. Overfeed them, and they become a dragon! Will you keep them alive or sacrifice them to obtain rare items? Be wary, each choice you make can change your ending.",
+		"quantity" : 0,
+		"src_photo": "images/Dragon-Star-Varnir.jpg",
+		"photo_url" : "https://image.api.playstation.com/cdn/UP0031/CUSA14503_00/d0WHFQQ9fWRCi2CsBy2c6FtulKft5pEU.png?w=440&thumb=false"
+	},
+	{
+		"name" : "Outer Wilds",
+		"price" : 24.99,
+		"description" : "Outer Wilds is an open world mystery about a solar system trapped in an endless time loop. Welcome to the Space Program! Youre the newest recruit of Outer Wilds Ventures, a fledgling space program searching for answers in a strange, constantly evolving solar system.",
+		"quantity" : 0,
+		"src_photo": "images/Outer-Wilds.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202208/1623/Zofebh60Ue7Zt5sC10UAtU3D.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Kingdom Two Crowns",
+		"price" : 19.99,
+		"description" : "Kingdom Two Crowns is a side-scrolling micro strategy game with a minimalist feel wrapped in a beautiful, modern pixel art aesthetic. Play the role of a monarch atop their steed and recruit loyal subjects, build your kingdom and protect it from the greedy creatures looking to steal your coins and crown. In the brand-new campaign mode, monarchs must now work to build a kingdom that stands over time until finding a way to defeat the Greed for good. Explore the environments to discover new mounts and secrets hidden in the deep.",
+		"quantity" : 0,
+		"src_photo": "images/Kingdom-Two-Crowns.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202111/2310/S8MdQILD9cx2ffeNhqNONc93.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Ghostrunner",
+		"price" : 29.99,
+		"description" : "Ghostrunner is a hardcore FPP slasher packed with lightning-fast action, set in a grim, cyberpunk megastructure. Climb Dharma Tower, humanitys last shelter, after a world-ending cataclysm. Make your way up from the bottom to the top, confront the tyrannical Keymaster, and take your revenge. The streets of this tower city are full of violence. Mara the Keymaster rules with an iron fist and little regard for human life.",
+		"quantity" : 0,
+		"src_photo": "images/Ghostrunner.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202108/2600/hdoOAnRlmDSm5kCcgggrXnIT.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Life is Strange",
+		"price" : 19.99,
+		"description" : "Life is Strange is an award-winning and critically acclaimed episodic adventure game that allows the player to rewind time and affect the past, present and future. Follow the story of Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price. The pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay. Meanwhile, Max must quickly learn that changing the past can sometimes lead to a devastating future.",
+		"quantity" : 0,
+		"src_photo": "images/Life-is-Strange.webp",
+		"photo_url" : "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA01442_00/30/i_8d29bc9dc65290ef70267e306c51a79b541fe8c52b7532b4a58927fcbe302aa0/i/icon0.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Devil May Cry 5",
+		"price" : 19.99,
+		"description" : "The ultimate Devil Hunter is back in style, in the game action fans have been waiting for. A brand new entry in the legendary action series, Devil May Cry 5 brings together its signature blend of high-octane action and otherworldly original characters with the latest Capcom gaming technology to deliver a graphically groundbreaking action-adventure masterpiece.",
+		"quantity" : 0,
+		"src_photo": "images/Devil-May-Cry-5.jpg",
+		"photo_url" : "https://image.api.playstation.com/cdn/UP0102/CUSA08216_00/nxnwRA9ePhYHVjnfn406ZXw1Ug0ddELA.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Mortal Shell",
+		"price" : 29.99,
+		"description" : "Mortal Shell is a ruthless and deep action-RPG that tests your sanity and resilience in a shattered world. As the remains of humanity wither and rot, zealous foes fester in the ruins. They spare no mercy, with survival demanding superior awareness, precision, and instincts. Track down hidden sanctums of devout followers and discover your true purpose.",
+		"quantity" : 0,
+		"src_photo": "images/Mortal-Shell.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202008/0109/F5Wvzwr4VFVlonLj4wtjYkDx.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "Spiritfarer: Farewell Edition",
+		"price" : 29.99,
+		"description" : "Spiritfarer® is a cozy management game about dying. You play Stella, ferrymaster to the deceased, a Spiritfarer. Build a boat to explore the world, then befriend and care for spirits before finally releasing them into the afterlife. Farm, mine, fish, harvest, cook, and craft your way across mystical seas. Join the adventure as Daffodil the cat, in two-player cooperative play. Spend relaxing quality time with your spirit passengers, create lasting memories, and, ultimately, learn how to say goodbye to your cherished friends.",
+		"quantity" : 0,
+		"src_photo": "images/Spiritfarer-Farewell-Edition.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/img/rnd/202112/1100/oofNmdeDcfWwSU4XUOFSazSc.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "OMNO",
+		"price" : 18.99,
+		"description" : "A single-player journey of discovery through an ancient world of wonders. Full of puzzles, secrets and obstacles to overcome, where the power of a lost civilisation will carry you through forests, deserts and tundras - even to the clouds.AN EMOTIONAL JOURNEY A BEAUTIFUL MYSTERIOUS WORLD MEET FANTASTICAL CREATURES",
+		"quantity" : 0,
+		"src_photo": "images/OMNO.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202105/2614/XH1B1VNaFirvpYxYWpFlLuQN.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "JETT: The Far Shore",
+		"price" : 17.99,
+		"description" : "JETT : THE FAR SHORE invites you on an interstellar trip to carve out a future for a people haunted by oblivion in this cinematic action adventure. As scout Mei, be the first to deploy to a mythic ocean planet. Take the helm of a jett and explore a vast unknown - skim low over waves, roar up pristine coastlines and carve through otherworldly woods. Adapt to an intricate, systemic open world and persevere through adversity alongside an intimate ensemble cast in this story of courage, wonder and regret.",
+		"quantity" : 0,
+		"src_photo": "images/JETT-The-Far-Shore.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202107/1213/iFQoOsGMY1HjkDFOWijVGJaz.png?w=440&thumb=false"	
+	},
+	{
+		"name" : "The Medium",
+		"price" : 49.99,
+		"description" : "Discover a dark mystery only a medium can solve. Explore the real world and the spirit world at the same time. Use your psychic abilities to solve puzzles spanning both worlds, uncover deeply disturbing secrets, and survive encounters with The Maw - a monster born from an unspeakable tragedy.. The Medium is a third-person psychological horror game that features innovative dual-reality gameplay and an original soundtrack co-composed by Arkadiusz Reikowski and Akira Yamaoka. Get even more immersed in its uncanny atmosphere thanks to the extensive support for the unique features of your DualSense controller.",
+		"quantity" : 0,
+		"src_photo": "images/The-Medium.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202105/1813/DV0IXPHtc7JRTLoxsKAg0sJh.png?w=440&thumb=false"
+	},
+	{
+		"name" : "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
+		"price" : 39.99,
+		"description" : "The Definitive Edition includes all the content from the original release of the acclaimed DRAGON QUEST XI, and adds extra character-specific scenarios, the choice of playing with the original soundtrack or a grand orchestral version of the music, the ability to switch between 2D and 3D graphic modes, a Japanese voice-acting option, and much more!",
+		"quantity" : 0,
+		"src_photo": "images/DRAGON-QUEST.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202007/1617/ztkfmNFcuZBBkwsLUelKzgqW.png?w=440&thumb=false"
+	},
+	{
+		"name" : "Chorus",
+		"price" : 39.99,
+		"description" : "Take control of Nara on a quest to destroy the dark cult that created her. Unlock devastating weapons and mind-bending abilities in a true evolution of the space-combat shooter. Along with Forsaken, her sentient starfighter, explore ancient temples, engage in exhilarating zero-g combat, and venture beyond our waking reality.",
+		"quantity" : 0,
+		"src_photo": "images/Chorus.webp",
+		"photo_url" : "https://image.api.playstation.com/vulcan/ap/rnd/202109/0817/yLhQ4TPXkilrPeaJTvs7m7JW.png?w=440&thumb=false"
+	}
+]	

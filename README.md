@@ -9,3 +9,4 @@ Different Projects done for my bachelor's degree in computer science
   * CSC361 - Artificial Intelligence 
   * CSC380 - Database Systems 
   * CSC340 - Programming Languages & Compilation 
+  * CSC457 - Web Technologies

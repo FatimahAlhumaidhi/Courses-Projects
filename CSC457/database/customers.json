@@ -1,0 +1,77 @@
+[
+    { 
+		"name": "John Smith", 
+		"email": "johnsmith@gmail.com", 
+		"password": "J0hnSm!thP@$$w0rd1" 
+	},
+    { 
+		"name": "Emily Davis", 
+		"email": "emilydavis@yahoo.com", 
+		"password": "Em!lyD@v!sP@$$w0rd2" 
+	},
+    { 
+		"name": "Michael Brown", 
+		"email": "michaelbrown@hotmail.com", 
+		"password": "M!ch@elBr0wnP@$$w0rd3" 
+	},
+    {
+		"name": "Jessica Wilson", 
+		"email": "jessicawilson@gmail.com", 
+		"password": "J3ss!c@W!ls0nP@$$w0rd4"
+	},
+    {
+		"name": "Matthew Taylor", 
+		"email": "matthewtaylor@yahoo.com", 
+		"password": "M@tthewT@yl0rP@$$w0rd5"
+	},
+    {
+		"name": "David Anderson", 
+		"email": "davidanderson@hotmail.com", 
+		"password": "D@v!dAnd3rs0nP@$$w0rd6"
+	},
+    {
+		"name": "Daniel Thompson", 
+		"email": "danielthompson@gmail.com", 
+		"password": "D@n!3lTh0mps0nP@$$w0rd7"
+	},
+    {
+		"name": "Paul Gonzalez", 
+		"email": "paulgonzalez@yahoo.com", 
+		"password": "P@ulG0nz@lezP@$$w0rd8"
+	},
+    {
+		"name": "Mark Rodriguez", 
+		"email": "markrodriguez@hotmail.com", 
+		"password": "M@rkR0dr!guezP@$$w0rd9"
+	},
+    {
+		"name": "Jennifer Lewis", 
+		"email": "jenniferlewis@gmail.com", 
+		"password": "J3nn!f3rL3w!sP@$$w0rd10"
+		},
+    {
+		"name": "Elizabeth Young", 
+		"email": "elizabethyoung@yahoo.com", 
+		"password": "3l!z@b3thY0ungP@$$w0rd11"
+	},
+    {
+		"name": "Joshua King", 
+		"email": "joshuaking@hotmail.com", 
+		"password": "J0shu@K!ngP@$$w0rd12"
+	},
+    {
+		"name": "Mary Wright", 
+		"email": "marywright@gmail.com", 
+		"password": "M@ryWr!ghtP@$$w0rd13"
+	},
+    {
+		"name": "Brian Lopez", 
+		"email": "brianlopez@yahoo.com", 
+		"password": "Br!@nL0pezP@$$w0rd14"
+	},
+    {
+		"name": "Kevin Hill", 
+		"email": "kevinhill@hotmail.com", 
+		"password": "K3v!nH!llP@$$w0rd15"
+	}
+]
